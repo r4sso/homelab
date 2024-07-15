@@ -1,3 +1,6 @@
+# Set TERM to a compatible terminal type
+export TERM=xterm-256color
+
 clear 
 echo "$(tput bold)$(tput setaf 226)"
 echo "    .--. "
